@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\bin\Debug\net6.0\DZ_002.exe
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\bin\Debug\net6.0\DZ_002.deps.json
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\bin\Debug\net6.0\DZ_002.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\bin\Debug\net6.0\DZ_002.dll
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\bin\Debug\net6.0\DZ_002.pdb
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.dll
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\refint\DZ_002.dll
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.pdb
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\DZ_002.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Lesson7_DZ\DZ_002\obj\Debug\net6.0\ref\DZ_002.dll
