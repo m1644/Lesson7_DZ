@@ -1,16 +1,23 @@
 ﻿// Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 
-double[,] CreateMatrix(int rowCount, int columnCount, int min, int max)
+Console.Write("Введите количество строк: ");
+int linesVol = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов: ");
+int columnsVol = Convert.ToInt32(Console.ReadLine());
+
+double[,] numbers = new double[linesVol, columnsVol];
+CreateMatrix(numbers);
+PrintMatrix(numbers);
+
+void CreateMatrix(double[,] array)
 {
-    double[,] array = new double[rowCount, columnCount];
-    for (int row = 0; row < rowCount; row++)
+    for (int row = 0; row < array.GetLength(0); row++)
     {
-        for (int column = 0; column < columnCount; column++)
+        for (int column = 0; column < array.GetLength(1); column++)
         {
-            array[row, column] = new Random().Next(min, max+1);
+            array[row, column] = Convert.ToDouble(new Random().Next(-100, 100)) / 10;
         }
     }
-    return array;
 }
 
 void PrintMatrix(double[,] arr)
@@ -24,6 +31,3 @@ void PrintMatrix(double[,] arr)
         Console.WriteLine();
     }
 }
-
-double[,] matrix = CreateMatrix(3, 4, 0, 99);
-PrintMatrix(matrix);
